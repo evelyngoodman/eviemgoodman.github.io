@@ -3,6 +3,6 @@
 I am a CIS Major at the University of Oregon. I am currently taking CIT 281.
 
 ### CIT 281 Projects
-- [https://uo-cit.github.io/project-1-eviemgoodman](Project 1) (learned about for of loops and the foreach method)
-- [https://uo-cit.github.io/project-2-eviemgoodman](Project 2) (learned about APIs)
-- Project 3 (learned about github user pages)
+- [Project 1](https://github.com/UO-CIT/project-1-eviemgoodman.git)(learned about for of loops and the foreach method)
+- [Project 2](https://github.com/UO-CIT/project-2-eviemgoodman.git) (learned about APIs)
+- [Project 3](https://uo-cit.github.io/project-3-eviemgoodman/) (learned about github user pages)
