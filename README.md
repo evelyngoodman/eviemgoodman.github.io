@@ -8,4 +8,8 @@ I am a CIS Major at the University of Oregon. I am currently taking CIT 281.
 - [Project 3](https://uo-cit.github.io/project-3-eviemgoodman/) (learned about github user pages)
 
 
-- [Project 1 Github User Page](https://yourUserName.github.io/project-1/)
+- [Project 1 Github User Page](https://eviemgoodman.github.io/project-1/)
+- [Project 2 Github User Page](https://eviemgoodman.github.io/project-2/)
+- [Project 3 Github User Page](https://eviemgoodman.github.io/project-2/)
+- [Project 4 Github User Page](https://eviemgoodman.github.io/project-2/)
+- [Project 5 Github User Page](https://eviemgoodman.github.io/project-2/)
