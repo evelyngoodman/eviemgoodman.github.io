@@ -4,10 +4,11 @@ Hi there! I'm an Informatics major at the University of Washington with a concen
 
 
 ### Intermediate computer programming courses
-- [CSE 142 Computer programming 1](https://github.com/evelyngoodman/CSE142)
+- [CSE 142 Computer Programming 1](https://github.com/evelyngoodman/CSE142)
+- [CSE 143 Computer Programming 2](https://github.com/evelyngoodman/CSE143)
 
 ### Intermediate data programming courses
-- [CSE 163](https://github.com/evelyngoodman/CSE163)
+- [CSE 163 Intermediate Data Programming](https://github.com/evelyngoodman/CSE163)
 
 ### Database Management courses
 - [INFO 330 Database Systems and Management](https://github.com/evelyngoodman/INFO330)
