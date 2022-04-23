@@ -10,19 +10,11 @@ Hi there! I'm an Informatics major at the University of Washington with a concen
 - [Project 5](https://github.com/evelyngoodman/UO-CIT281-P5) (Built a RESTful Web Service that stores various data in a MongoDB.)
 
 
-### Intermediate computer programming projects
-- [Project 1 Github User Page](https://eviemgoodman.github.io/project-1/)
-- [Project 2 Github User Page](https://eviemgoodman.github.io/project-2/)
-- [Project 3 Github User Page](https://eviemgoodman.github.io/project-2/)
-- [Project 4 Github User Page](https://eviemgoodman.github.io/project-2/)
-- [Project 5 Github User Page](https://eviemgoodman.github.io/project-2/)
+### Intermediate computer programming courses
+- [CSE 142 Computer programming 1](https://github.com/evelyngoodman/CSE142)
 
-### Intermediate data programming projects
-- [Project 1 Github User Page](https://eviemgoodman.github.io/project-1/)
-- [Project 2 Github User Page](https://eviemgoodman.github.io/project-2/)
-- [Project 3 Github User Page](https://eviemgoodman.github.io/project-2/)
-- [Project 4 Github User Page](https://eviemgoodman.github.io/project-2/)
-- [Project 5 Github User Page](https://eviemgoodman.github.io/project-2/)
+### Intermediate data programming courses
+- [CSE 163](https://github.com/evelyngoodman/CSE163)
 
-### Database Management projects
-- [Database Systems and Management](https://github.com/evelyngoodman/INFO330)
+### Database Management courses
+- [INFO 330 Database Systems and Management](https://github.com/evelyngoodman/INFO330)
