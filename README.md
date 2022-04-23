@@ -25,8 +25,4 @@ Hi there! I'm an Informatics major at the University of Washington with a concen
 - [Project 5 Github User Page](https://eviemgoodman.github.io/project-2/)
 
 ### Database Management projects
-- [Project 1 Github User Page](https://eviemgoodman.github.io/project-1/)
-- [Project 2 Github User Page](https://eviemgoodman.github.io/project-2/)
-- [Project 3 Github User Page](https://eviemgoodman.github.io/project-2/)
-- [Project 4 Github User Page](https://eviemgoodman.github.io/project-2/)
-- [Project 5 Github User Page](https://eviemgoodman.github.io/project-2/)
+- [Database Systems and Management](https://github.com/evelyngoodman/INFO330)
