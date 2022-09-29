@@ -1,6 +1,6 @@
 ## Evelyn Goodman
 
-Hi there! I'm an Informatics major at the University of Washington with a concentration in human-computer interaction. Below are examples of projects I've worked on in the past.
+Hi there! I'm an Informatics major at the University of Washington with a concentration in data science. Below are examples of projects I've worked on in the past.
 
 
 ### Intermediate computer programming courses
