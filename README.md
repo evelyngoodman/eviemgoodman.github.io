@@ -1,18 +1,22 @@
 ## Evelyn Goodman
 
-Hi there! I'm an Informatics major at the University of Washington with a concentration in data science. Below are examples of projects I've worked on in the past.
+Hi there! I'm an Informatics major at the University of Washington with a concentration in data science.
 
+### University of Washington Informatics courses
 
-### Intermediate computer programming courses
+#### Intermediate computer programming courses
 - [CSE 142 Computer Programming 1](https://github.com/evelyngoodman/CSE142)
 - [CSE 143 Computer Programming 2](https://github.com/evelyngoodman/CSE143)
 
-### Intermediate data programming courses
+#### Data programming courses
 - [CSE 163 Intermediate Data Programming](https://github.com/evelyngoodman/CSE163)
+- [INFO 370 Introduction to Data Science](https://github.com/evelyngoodman/)
 
-### Database Management courses
+#### Database Management courses
 - [INFO 330 Database Systems and Management](https://github.com/evelyngoodman/INFO330)
 
+#### Front End Software Development course
+- [INFO 340 Client-side Dvelopment](https://github.com/evelyngoodman/)
 
 ### University of Oregon Computer Information Technology minor projects - Web programming
 
