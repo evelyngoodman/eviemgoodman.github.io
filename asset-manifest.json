@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eviemgoodman/static/css/main.5ecdbde5.css",
+    "main.js": "/eviemgoodman/static/js/main.d84c98aa.js",
+    "static/media/broadcast.png": "/eviemgoodman/static/media/broadcast.13b382c949b82914805a.png",
+    "static/media/visio.png": "/eviemgoodman/static/media/visio.7e81b16a0c2cbb42a3a3.png",
+    "static/media/traderjoes.png": "/eviemgoodman/static/media/traderjoes.acd9757640dec74a2213.png",
+    "static/media/downtime.png": "/eviemgoodman/static/media/downtime.68d32c5873c0ccbf2a31.png",
+    "static/media/landing.jpg": "/eviemgoodman/static/media/landing.08e2d638e89bb9955fba.jpg",
+    "static/media/oceans-five.png": "/eviemgoodman/static/media/oceans-five.25683ad417396ac80229.png",
+    "static/media/anemone.png": "/eviemgoodman/static/media/anemone.8c4fe6a46cd5fc2d7dae.png",
+    "index.html": "/eviemgoodman/index.html",
+    "main.5ecdbde5.css.map": "/eviemgoodman/static/css/main.5ecdbde5.css.map",
+    "main.d84c98aa.js.map": "/eviemgoodman/static/js/main.d84c98aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ecdbde5.css",
+    "static/js/main.d84c98aa.js"
+  ]
+}
